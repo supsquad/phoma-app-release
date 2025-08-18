@@ -1,3 +1,5 @@
-# Phoma App v1.0.0
+# Phoma App v1.0.1
 
-Welcome to Phoma App
+## Fix
+
+- Fix check latest version
