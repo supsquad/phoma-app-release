@@ -1,5 +1,5 @@
-# Phoma App v1.0.1
+# Phoma App v1.0.2
 
 ## Fix
 
-- Fix check latest version
+- Close ADB before update
