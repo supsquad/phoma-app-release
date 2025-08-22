@@ -1,5 +1,11 @@
-# Phoma App v1.0.2
+# Phoma App v1.1.0
 
-## Fix
+## Feature
 
-- Close ADB before update
+- Add redeem code for plan giveaway
+- Add crypto payment method
+
+## Improve
+
+- Windows icon quality
+- Payment table responsive
